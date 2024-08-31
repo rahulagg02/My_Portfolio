@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ContactWrapper, Email, ContactContent, ContactDetails, ContactImage, SocialIcons, Address } from "./ContactElements";
+import { ContactWrapper, Email, ContactContent, ContactDetails, Address } from "./ContactElements";
 import { MdContentCopy } from "react-icons/md";
 import { IconButton, Tooltip } from "@mui/material";
 import Zoom from '@mui/material/Zoom';
